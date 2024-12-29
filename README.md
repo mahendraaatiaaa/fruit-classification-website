@@ -36,5 +36,9 @@ Here is the final look of the website :
 
 # 🗂 Repositories 
 * Model Repositories :
-* Website Repositories :
+* Website Repositories : https://github.com/mahendraaatiaaa/fruit-classification-website/
 * Website Deployment : https://nabilamutiarasusetio.pythonanywhere.com/
+
+# 🔐 The Editor :
+* Nabila Mutiara Susetio : https://github.com/nabilamutiara/
+* Tatia Mahendra : https://github.com/mahendraaatia/
