@@ -35,7 +35,7 @@ Here is the final look of the website :
 ![image](https://github.com/user-attachments/assets/7ab735b9-fa60-450d-827c-a13db7c4ca8f)
 
 # 🗂 Repositories 
-* Model Repositories :
+* Model Repositories : https://github.com/nabilamutiara/FullCodeFruitClassification
 * Website Repositories : https://github.com/mahendraaatiaaa/fruit-classification-website/
 * Website Deployment : https://nabilamutiarasusetio.pythonanywhere.com/
 
